@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649756545 source:c:\users\ivanu\onedrive\escritorio\universidad\semestre 2\programacion\interaccion_gravitacional\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+
